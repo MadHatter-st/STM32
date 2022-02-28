@@ -1,0 +1,3 @@
+/home/nikita/STM32Cube/Projects/Project_KURS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/STM32Cube/Projects/Project_KURS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/STM32Cube/Projects/Project_KURS/cmake-build-debug/CMakeFiles/Project_KURS.elf.dir
